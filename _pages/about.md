@@ -112,6 +112,10 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Computer 
 📄 <strong style="color:#06C0B9">Yongjian Li</strong>, Jifeng He. _Formalising Verilog_. In International Conference on Applied Informatics (**AI 2001**)
 
 
+# 💯 Teaching
+- Mathematical Logic​ & Programming Theory​​
+
+
 # 🎓 Educations
 - *1998.03 - 2001.03*, **Ph.D**, Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *1995.09 - 1998.03*, **M.S.**, Department of Computer Science and Engineering, Shanghai University.
@@ -122,32 +126,32 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Computer 
 
 - **Strategic Priority Research Program (Category A) of Chinese Academy of Sciences**  
   `RISC-V Fundamental Software`  
-  *2021-2025* | Principal Investigator (PI)[4](@ref)
+  *2021-2025* | *Principal Investigator*
 
 - **National Natural Science Foundation of China** (#61672503)  
   `Inductive Invariant-Based Parameterized Protocol Verification`  
-  *2017.01-2020.12* | 630,000 CNY | PI[6,7,8](@ref)
+  *2017.01-2020.12* | 630,000 CNY | *Principal Investigator*
 
 - **National Natural Science Foundation of China** (#61170073)  
   `Model Checking Based on First-Order Symbolic Trajectory Computation Theory`  
-  *2011.01-2015.12* | 560,000 CNY | PI[6,7,8](@ref)
+  *2011.01-2015.12* | 560,000 CNY | *Principal Investigator*
 
 - **National Natural Science Foundation of China** (#60603001)  
   `Formal Semantics and Model Checking Algorithms for Symbolic Trajectory Computation`  
-  *2007.01-2009.12* | 180,000 CNY | PI[6,7,8](@ref)
+  *2007.01-2009.12* | 180,000 CNY | *Principal Investigator*
 
 - **Basic Research Program of Institute of Software, CAS**  
   `Model Checking Techniques for Authentication Protocol Verification`  
-  *Principal Investigator*[1,4](@ref)
+  *Principal Investigator*
 
 - **Open Research Program of State Key Laboratory of Information Security**  
   `Strand Space-Based Protocol Analysis Methodology`  
-  *Principal Investigator*[1,4](@ref)
+  *Principal Investigator*
 
 - **National Key R&D Program**  
   `Formal Theories and Methods for High-Confidence Software — Concurrent Theory`  
-  *Participant*[4,5](@ref)
+  *Participant*
 
 - **National Basic Research Program**  
   `Frontier Issues in Fundamental Software Research`  
-  *Participant*[4,5](@ref)
+  *Participant*
