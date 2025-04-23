@@ -19,7 +19,7 @@ redirect_from:
 
 Yongjian LI received his PhD degree from the Department of Computer Science and Engineering at <a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> (SJTU). He is currently an <strong>Associate Researcher</strong> at the <a href='http://www.iscas.ac.cn/'>State Key Laboratory of Computer Science</a>, Institute of Software, Chinese Academy of Sciences.
 
-His research focuses on <strong>Concurrent Software Design & Analysis, Computer Science/Software Theory, Machine Learning, Big Data Processing, and Formal Methods</strong>. He has published over 30 papers in top-tier conferences and journals including IEEE International Conference on Computer Design (ICCD), IEEE/ACM International Conference on Automated Software Engineering (ASE), ACM Transactions on Computational Logic (TOCL), and Formal Aspects of Computing (FAC).
+His research focuses on <strong>Concurrent Software Design & Analysis, Coherence Protocol Verification, Machine Learning, Big Data Processing, and Formal Methods</strong>. He has published over 30 papers in top-tier conferences and journals including IEEE International Conference on Computer Design (ICCD), IEEE/ACM International Conference on Automated Software Engineering (ASE), ACM Transactions on Computational Logic (TOCL), and Formal Aspects of Computing (FAC).
 
 
 # 🔥 News
@@ -155,3 +155,18 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Computer 
 - **National Basic Research Program**  
   `Frontier Issues in Fundamental Software Research`  
   *Participant*
+
+
+# 🛠️ Group Projects
+
+## **FastMurphi**  
+A high-performance verification tool based on Murphi, a explicit model checker, enhanced with multiple heuristic search algorithms to significantly improve the efficiency of searching for specific target states in protocol verification tasks.  
+
+🔗 [GitHub Repository](https://github.com/yongjianli-group/FastMurphi) | 📄 [Documentation](https://fastmurphi.readthedocs.io)  
+
+---
+
+## **MurphiLLM**  
+An innovative integration of Murphi with large language model (LLM) technologies via LangChain framework. This tool automates and optimizes parts of the manual verification process, improving both efficiency and usability.  
+
+🔗 [GitHub Repository](https://github.com/yongjianli-group/MurphiLLM) | 📄 [Documentation](https://murphillm.readthedocs.io)  

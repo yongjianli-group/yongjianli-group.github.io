@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongjian Li's Homepage"
-description              : "Formal Methods, Concurrent Software, Machine Learning" 
+description              : "Formal Methods, Coherence Protocol Verification, Machine Learning" 
 repository               : "yongjianli-group/yongjianli-group.github.io"
 google_scholar_stats_use_cdn : true
 
