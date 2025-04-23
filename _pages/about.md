@@ -159,14 +159,12 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 
 # 🛠️ Group Projects
 
-## **FastMurphi**  
-A high-performance verification tool based on Murphi, a explicit model checker, enhanced with multiple heuristic search algorithms to significantly improve the efficiency of searching for specific target states in protocol verification tasks.  
+- **FastMurphi**  
+  A high-performance verification tool based on Murphi, a explicit model checker, enhanced with multiple heuristic search algorithms to significantly improve the efficiency of searching for specific target states in protocol verification tasks.  
 
-🔗 [GitHub Repository](https://github.com/yongjianli-group/FastMurphi) | 📄 [Documentation](https://fastmurphi.readthedocs.io)  
+  🔗 [GitHub Repository](https://github.com/yongjianli-group/FastMurphi) | 📄 [Documentation](https://fastmurphi.readthedocs.io)  
 
----
+- **MurphiLLM**  
+  An innovative integration of Murphi with large language model (LLM) technologies via LangChain framework. This tool automates and optimizes parts of the manual verification process, improving both efficiency and usability.  
 
-## **MurphiLLM**  
-An innovative integration of Murphi with large language model (LLM) technologies via LangChain framework. This tool automates and optimizes parts of the manual verification process, improving both efficiency and usability.  
-
-🔗 [GitHub Repository](https://github.com/yongjianli-group/MurphiLLM) | 📄 [Documentation](https://murphillm.readthedocs.io)  
+  🔗 [GitHub Repository](https://github.com/yongjianli-group/MurphiLLM) | 📄 [Documentation](https://murphillm.readthedocs.io)  
