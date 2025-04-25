@@ -206,7 +206,7 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
 - 
   ModelChecker is a high-performance, AIG-level formal verification engine tailored for safety property checking of digital hardware systems. Designed with scalability and precision in mind, it supports multi-threaded Bounded Model Checking (BMC) and IC3/PDR-based algorithms, making it suitable for both academic research and industrial applications, and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
 
-  Key highlights of ModelChecker include:
+  Key highlights of modelChecker include:
   - 🧠 CPO-Guided Enhancements: Incorporates Critical Proof Obligation (CPO) techniques to guide UNSAT core extraction and proof obligation propagation, improving convergence speed and memory efficiency in PDR.
 
   - 🧵 Flexible Parallelism: Supports configurable BMC (up to 12 threads) and PDR (up to 4 threads), as well as a hybrid mode that intelligently balances workload across cores.
