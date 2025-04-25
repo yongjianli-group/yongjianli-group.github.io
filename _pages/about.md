@@ -203,7 +203,7 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
   🔗 [Git Repository](https://github.com/paraVerifier/paraVerifier)
 
 - **modelchecker**
-- 
+
   ModelChecker is a high-performance, AIG-level formal verification engine tailored for safety property checking of digital hardware systems. Designed with scalability and precision in mind, it supports multi-threaded Bounded Model Checking (BMC) and IC3/PDR-based algorithms, making it suitable for both academic research and industrial applications, and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
 
   Key highlights of modelchecker include:
