@@ -212,7 +212,7 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
   - 🧵 Flexible Parallelism: Supports configurable BMC (up to 12 threads) and PDR (up to 4 threads), as well as a hybrid mode that intelligently balances workload across cores.
 
   - ⚙️ Command-Line Simplicity, Engine-Level Power: Easily scriptable with rich command-line options (e.g., -findbug, -uc, -pr), allowing fine-grained control over the verification process.
-- 
+
   🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
 
 - **🚀 SymbiMC: A Scalable AIG-based Formal Verification Backend for SymbiYosys**
