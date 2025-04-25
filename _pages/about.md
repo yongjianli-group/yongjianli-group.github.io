@@ -201,3 +201,8 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
   paraVerifier is an automatic framework for verifying parameterized cache coherence protocols. It discovers invariants from small concretes and automatically infers parameterized forms with dependency reasoning, producing formal proofs in Isabelle.
 
   🔗 [Git Repository](https://github.com/paraVerifier/paraVerifier)
+
+  - **modelchecker**  
+  Modelchecker is a high-performance formal verification engine designed for scalable and efficient hardware model checking. It supports cutting-edge techniques such as Bounded Model Checking (BMC) and Property Directed Reachability (PDR/IC3), and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools. Built with flexibility and extensibility in mind, Modelchecker integrates seamlessly into formal verification flows, including SymbiYosys (SBY), enabling robust verification of complex Verilog designs. It has been successfully applied to industrial-scale designs such as XiangShan, showcasing its capability to handle real-world challenges in hardware verification.
+
+  🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
