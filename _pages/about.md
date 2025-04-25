@@ -210,6 +210,7 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
   🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
 
 - **🚀 SymbiMC: A Scalable AIG-based Formal Verification Backend for SymbiYosys**
+  
   SymbiMC is a high-efficiency formal verification framework that seamlessly integrates the symbolic power of [SymbiYosys (SBY)](https://github.com/YosysHQ/sby) with the thread-level parallelism and bit-level precision of our in-house developed model checker, ModelChecker.
 
   By replacing the default SMT backend in SBY with ModelChecker, SymbiMC enables significantly faster verification of Verilog designs, especially for large-scale industrial hardware modules such as [XiangShan](https://github.com/OpenXiangShan/XiangShan). It leverages native AIG-based reasoning, multi-threaded BMC/PDR solving, and optimized witness generation to accelerate bug detection and correctness proofs.
