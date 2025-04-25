@@ -29,7 +29,20 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 
 # 📝 Publications 
 
+
+📄 <strong style="color:#06C0B9">Yongjian Li</strong>, Zhenghai Cai， Bow-yaw Wang， Yongxin Zhao ; Parameterized Hardware
+Verification Through A Term-level Generalized Symbolic Trajectory Evaluation And Its Linkage With
+Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (**FAC 2025**)
+
 📄 <strong style="color:#06C0B9">Yongjian Li</strong>, Bohua Zhan, Jun Pang. _Mechanizing the CMP Abstraction for Parameterized Verification_. In Proceedings of the ACM on Programming Languages (**OOPSLA 2024**)
+
+📄 <strong style="color:#06C0B9">Kun Ma, Yongjian Li</strong>, Shaowei Cai, Yongxin Zhao: A local search approach to protocol verification. Theor. Comput. Sci. 1008: 114675 (2024) （CCF-B）(**TCS 2024**)
+
+📄 <strong style="color:#06C0B9">Zhenghai Cai, Yongjian Li</strong>, Yongxin Zhao: Murphi2Chisel: A Protocol Compiler from Murphi to Chisel. Internetware 2024.(**Internetware  2024**) 
+
+📄 <strong style="color:#06C0B9">Yongjian Li</strong>, , Hongjian Jiang, Yongxin Zhao: A Formally Verified Scheme for Security Protocols with the Operational Semantics of Strand Space. TASE 2024 (**TASE 2024**) 
+
+
 
 📄 Xiwei Li, Xi Wu, Yongxin Zhao, <strong style="color:#06C0B9">Yongjian Li</strong>. _Perceptual Risk-Aware Adaptive Responsibility Sensitive Safety for Autonomous Driving_. In International Conference on Advanced Information Systems Engineering (**CAiSE 2023**)
 
