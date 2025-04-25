@@ -181,6 +181,7 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 
 - **wiseParaverifier**
   wiseParaverifier is an induction-based verifier for parameterized protocols. It infers auxiliary invariants from small concretizations and supports hybrid quantifier reasoning through type-saturation-based parameterization. The framework handles both cache coherence and distributed protocols with high effectiveness and generality.
+  
   🔗 [Git Repository](https://github.com/xiuqiqiq/WiseParaVerifier.git)
 
 - **paraVerifier**  
