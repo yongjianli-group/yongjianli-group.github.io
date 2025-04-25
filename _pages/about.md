@@ -167,4 +167,14 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 - **MurphiLLM**  
   An innovative integration of Murphi with large language model (LLM) technologies via LangChain framework. This tool automates and optimizes parts of the manual verification process, improving both efficiency and usability.  
 
-  🔗 [GitHub Repository](https://github.com/yongjianli-group/MurphiLLM) | 📄 [Documentation](https://murphillm.readthedocs.io)  
+  🔗 [GitHub Repository](https://github.com/yongjianli-group/MurphiLLM) | 📄 [Documentation](https://murphillm.readthedocs.io)
+
+- **ChiselFV2**  
+  A formal verification extension for Chisel, which can describe hardware properties on the Chisel level. It can invoke several algorithms, including symbolic execution, bounded model checking, and JasperGold engines, to traverse the state space of the cache design, validating all possible execution paths against the assertions.  
+
+  🔗 [GitHub Repository](https://github.com/chenty2002/ChiselFV2)
+
+- **CoupledL2 Verification**  
+  A formal verification workflow for formally verifying industrial-scale cache systems, providing automated execution options for mainstream verification tools, including JasperGold. Based on the proposed verification workflow and ChiselFV2, we take the cache system of the XiangShan RISC-V processor, which has been using agile methods, as a case study. To date, we have identified significant errors in its L2 cache CoupledL2, errors, especially deadlocks, that are extremely difficult to locate using testing techniques. To the best of our knowledge, this is the first work that systematically applies model checking to verify industrial-scale multi-core cache RTL circuits in Chisel that implement the TileLink protocol. 
+
+  🔗 [Git Repository](https://anonymous.4open.science/r/CoupledL2-Verification)
