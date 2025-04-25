@@ -178,3 +178,12 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
   A formal verification workflow for formally verifying industrial-scale cache systems, providing automated execution options for mainstream verification tools, including JasperGold. Based on the proposed verification workflow and ChiselFV2, we take the cache system of the XiangShan RISC-V processor, which has been using agile methods, as a case study. To date, we have identified significant errors in its L2 cache CoupledL2, errors, especially deadlocks, that are extremely difficult to locate using testing techniques. To the best of our knowledge, this is the first work that systematically applies model checking to verify industrial-scale multi-core cache RTL circuits in Chisel that implement the TileLink protocol. 
 
   🔗 [Git Repository](https://anonymous.4open.science/r/CoupledL2-Verification)
+
+- **wiseParaverifier**
+  wiseParaverifier is an induction-based verifier for parameterized protocols. It infers auxiliary invariants from small concretizations and supports hybrid quantifier reasoning through type-saturation-based parameterization. The framework handles both cache coherence and distributed protocols with high effectiveness and generality.
+  🔗 [Git Repository](https://github.com/xiuqiqiq/WiseParaVerifier.git)
+
+- **paraVerifier**  
+  paraVerifier is an automatic framework for verifying parameterized cache coherence protocols. It discovers invariants from small concretes and automatically infers parameterized forms with dependency reasoning, producing formal proofs in Isabelle.
+
+  🔗 [Git Repository](https://github.com/paraVerifier/paraVerifier)
