@@ -205,6 +205,6 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
 - **modelchecker**  
   Modelchecker is a high-performance formal verification engine designed for scalable and efficient hardware model checking. It supports cutting-edge techniques such as Bounded Model Checking (BMC) and Property Directed Reachability (PDR/IC3), and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
 
-  Built with flexibility and extensibility in mind, Modelchecker integrates seamlessly into formal verification flows, including [SymbiYosys (SBY)](https://github.com/YosysHQ/sby), enabling robust verification of complex Verilog designs. It has been successfully applied to industrial-scale designs such as [XiangShan Project](https://github.com/OpenXiangShan/XiangShan), showcasing its capability to handle real-world challenges in hardware verification.
+  Built with flexibility and extensibility in mind, modelchecker integrates seamlessly into formal verification flows, including [SymbiYosys (SBY)](https://github.com/YosysHQ/sby), enabling robust verification of complex Verilog designs. It has been successfully applied to industrial-scale designs such as [XiangShan](https://github.com/OpenXiangShan/XiangShan), showcasing its capability to handle real-world challenges in hardware verification.
 
   🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
