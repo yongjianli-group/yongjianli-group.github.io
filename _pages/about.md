@@ -202,11 +202,17 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
 
   🔗 [Git Repository](https://github.com/paraVerifier/paraVerifier)
 
-- **modelchecker**  
-  Modelchecker is a high-performance formal verification engine designed for scalable and efficient hardware model checking. It supports cutting-edge techniques such as Bounded Model Checking (BMC) and Property Directed Reachability (PDR/IC3), and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
+- **modelchecker**
+- 
+  ModelChecker is a high-performance, AIG-level formal verification engine tailored for safety property checking of digital hardware systems. Designed with scalability and precision in mind, it supports multi-threaded Bounded Model Checking (BMC) and IC3/PDR-based algorithms, making it suitable for both academic research and industrial applications, and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
 
-  Built with flexibility and extensibility in mind, modelchecker integrates seamlessly into formal verification flows, including [SymbiYosys (SBY)](https://github.com/YosysHQ/sby), enabling robust verification of complex Verilog designs. It has been successfully applied to industrial-scale designs such as [XiangShan](https://github.com/OpenXiangShan/XiangShan), showcasing its capability to handle real-world challenges in hardware verification.
+  Key highlights of ModelChecker include:
+- 🧠 CPO-Guided Enhancements: Incorporates Critical Proof Obligation (CPO) techniques to guide UNSAT core extraction and proof obligation propagation, improving convergence speed and memory efficiency in PDR.
 
+- 🧵 Flexible Parallelism: Supports configurable BMC (up to 12 threads) and PDR (up to 4 threads), as well as a hybrid mode that intelligently balances workload across cores.
+
+- ⚙️ Command-Line Simplicity, Engine-Level Power: Easily scriptable with rich command-line options (e.g., -findbug, -uc, -pr), allowing fine-grained control over the verification process.
+- 
   🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
 
 - **🚀 SymbiMC: A Scalable AIG-based Formal Verification Backend for SymbiYosys**
