@@ -24,6 +24,7 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 
 # 🔥 News
 - *2025.03.15*: &nbsp;🎉🎉 Our paper 📑 "<a href='#'>Leveraging Critical Proof Obligations for Efficient IC3 Verification</a>" has been accepted to **DAC 2025**. Congrats!
+- *2025.08.10*: &nbsp;🎉🎉 Our work 📑 "<a href='#'>香山缓存系统的形式化验证</a>" has been accepted as a LONG TALK(20 minutes)to RISC-V Summit China 2024. Congrats!
 - *2024.03.05*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://dl.acm.org/doi/10.1145/3649858'>Mechanizing the CMP Abstraction for Parameterized Verification</a>" has been accepted to **OOPSLA 2024 (CCF-A)**. Congrats to the team!
 
 
