@@ -26,6 +26,7 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 - *2026.11*: &nbsp;🎉🎉 Our paper 📑 "ChiseLLMFV: Artifact-Grounded Source-Level Formal Verification for Chisel with LLMs" has been accepted to **ICCD 2026**. Congrats to Taoyu Chen!
 - *2026.09*: &nbsp;🎉🎉 Our paper 📑 "Addressing Hard Problems of Cache Coherence Protocols Verification Through Enhanced Directed Model Checking" has been accepted to **IEEE Transactions on Computers**.
 - *2025.03.15*: &nbsp;🎉🎉 Our paper 📑 "<a href='#'>Leveraging Critical Proof Obligations for Efficient IC3 Verification</a>" has been accepted to **DAC 2025**. Congrats!
+- *2025.08.10*: &nbsp;🎉🎉 Our work 📑 "<a href='#'>香山缓存系统的形式化验证</a>" has been accepted as a LONG TALK(20 minutes) to RISC-V Summit China 2024. Congrats!
 - *2024.03.05*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://dl.acm.org/doi/10.1145/3649858'>Mechanizing the CMP Abstraction for Parameterized Verification</a>" has been accepted to **OOPSLA 2024 (CCF-A)**. Congrats to the team!
 
 
@@ -206,3 +207,24 @@ Concrete Hardware Verification At Netlist Level, Formal aspects of computing.  (
   paraVerifier is an automatic framework for verifying parameterized cache coherence protocols. It discovers invariants from small concretes and automatically infers parameterized forms with dependency reasoning, producing formal proofs in Isabelle.
 
   🔗 [Git Repository](https://github.com/paraVerifier/paraVerifier)
+
+- **modelchecker**
+
+  ModelChecker is a high-performance, AIG-level formal verification engine tailored for safety property checking of digital hardware systems. Designed with scalability and precision in mind, it supports multi-threaded Bounded Model Checking (BMC) and IC3/PDR-based algorithms, making it suitable for both academic research and industrial applications, and has been benchmarked to deliver competitive or even superior performance compared to existing open-source tools.
+
+  Key highlights of modelchecker include:
+  - 🧠 CPO-Guided Enhancements: Incorporates Critical Proof Obligation (CPO) techniques to guide UNSAT core extraction and proof obligation propagation, improving convergence speed and memory efficiency in PDR.
+
+  - 🧵 Flexible Parallelism: Supports configurable BMC (up to 12 threads) and PDR (up to 4 threads), as well as a hybrid mode that intelligently balances workload across cores.
+
+  - ⚙️ Command-Line Simplicity, Engine-Level Power: Easily scriptable with rich command-line options (e.g., -findbug, -uc, -pr), allowing fine-grained control over the verification process.
+
+  🔗 [GitHub Repository](https://github.com/ISCAS-modelchecker/modelchecker) | 📄 [Documentation](https://github.com/ISCAS-modelchecker/modelchecker/blob/main/README.md)
+
+- **🚀 SymbiMC: A Scalable AIG-based Formal Verification Backend for SymbiYosys**
+  
+  SymbiMC is a high-efficiency formal verification framework that seamlessly integrates the symbolic power of [SymbiYosys (SBY)](https://github.com/YosysHQ/sby) with the thread-level parallelism and bit-level precision of our in-house developed model checker, ModelChecker.
+
+  By replacing the default SMT backend in SBY with ModelChecker, SymbiMC enables significantly faster verification of Verilog designs, especially for large-scale industrial hardware modules such as [XiangShan](https://github.com/OpenXiangShan/XiangShan). It leverages native AIG-based reasoning, multi-threaded BMC/PDR solving, and optimized witness generation to accelerate bug detection and correctness proofs.
+
+  🔗 [GitHub Repository](https://github.com/SeddonShen/sby/tree/modelchecker) | 📄 [Documentation](https://github.com/SeddonShen/sby/blob/modelchecker/README.md)
