@@ -23,12 +23,17 @@ His research focuses on <strong>Concurrent Software Design & Analysis, Coherence
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Our paper 📑 "ChiseLLMFV: Artifact-Grounded Source-Level Formal Verification for Chisel with LLMs" has been accepted to **ICCD 2026**. Congrats to Taoyu Chen!
+- *2026.09*: &nbsp;🎉🎉 Our paper 📑 "Addressing Hard Problems of Cache Coherence Protocols Verification Through Enhanced Directed Model Checking" has been accepted to **IEEE Transactions on Computers**.
 - *2025.03.15*: &nbsp;🎉🎉 Our paper 📑 "<a href='#'>Leveraging Critical Proof Obligations for Efficient IC3 Verification</a>" has been accepted to **DAC 2025**. Congrats!
 - *2024.03.05*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://dl.acm.org/doi/10.1145/3649858'>Mechanizing the CMP Abstraction for Parameterized Verification</a>" has been accepted to **OOPSLA 2024 (CCF-A)**. Congrats to the team!
 
 
 # 📝 Publications 
 
+📄 Taoyu Chen, <strong style="color:#06C0B9">Yongjian Li</strong>, Shaowei Cai. _ChiseLLMFV: Artifact-Grounded Source-Level Formal Verification for Chisel with LLMs_. Accepted in IEEE International Conference on Computer Design (**ICCD 2026**)
+
+📄 Kun Ma, <strong style="color:#06C0B9">Yongjian Li</strong>, Kaifan Wang, Yongxin Zhao, and Shaowei Cai. _Addressing Hard Problems of Cache Coherence Protocols Verification Through Enhanced Directed Model Checking_. Accepted in IEEE Transactions on Computers (**IEEE TC**)
 
 📄 <strong style="color:#06C0B9">Yongjian Li</strong>, Zhenghai Cai， Bow-yaw Wang， Yongxin Zhao ; Parameterized Hardware
 Verification Through A Term-level Generalized Symbolic Trajectory Evaluation And Its Linkage With
