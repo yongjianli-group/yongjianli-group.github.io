@@ -19,7 +19,7 @@ redirect_from:
 
 Yongjian LI received his PhD degree from the Department of Computer Science and Engineering at <a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> (SJTU). He is currently an <strong>Associate Researcher</strong> at the <a href='http://www.iscas.ac.cn/'>State Key Laboratory of Computer Science</a>, Institute of Software, Chinese Academy of Sciences.
 
-His research focuses on <strong>Concurrent Software Design & Analysis, Coherence Protocol Verification, Machine Learning, Big Data Processing, and Formal Methods</strong>. He has published over 30 papers in top-tier conferences and journals including IEEE International Conference on Computer Design (ICCD), IEEE/ACM International Conference on Automated Software Engineering (ASE), ACM Transactions on Computational Logic (TOCL), and Formal Aspects of Computing (FAC).
+His research focuses on <strong>Formal Methods including (model checking and theorem proving), and their application to hardware and software systems</strong>. He has published over 30 papers in top-tier conferences and journals including IEEE International Conference on Computer Design (ICCD), IEEE/ACM International Conference on Automated Software Engineering (ASE), ACM Transactions on Computational Logic (TOCL), and Formal Aspects of Computing (FAC).
 
 
 # 🔥 News

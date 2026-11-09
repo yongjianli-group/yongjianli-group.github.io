@@ -13,7 +13,7 @@ GitHub: [https://github.com/yongjianli-group](https://github.com/yongjianli-grou
 
 ## Research Interests
 
-Formal methods; cache-coherence and concurrent-system verification; parameterized model checking; RISC-V / Chisel hardware verification; SAT/SMT and model checking; LLM-assisted formal verification.
+Formal Methods including (model checking and theorem proving), and their application to hardware and software systems.
 
 ---
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongjian Li's Homepage"
-description              : "Formal Methods, Coherence Protocol Verification, Machine Learning" 
+description              : "His research focuses on Formal Methods including (model checking and theorem proving), and their application to hardware and software systems." 
 repository               : "yongjianli-group/yongjianli-group.github.io"
 google_scholar_stats_use_cdn : true
 
